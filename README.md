@@ -27,7 +27,7 @@ Cinemalistic is a sleek and stylish movie companion app built for movie enthusia
    ```swift
    // APIKey.swift
    struct APIKey {
-       static let tmdbKey = "YOUR_API_KEY_HERE"
+       static let apiKey = "YOUR_API_KEY_HERE"
    }
    
 ## Technologies Used
