@@ -31,11 +31,11 @@ Cinemalistic is a sleek and stylish movie companion app built for movie enthusia
    }
    
 ## Technologies Used
-- **SwiftUI + Combine
-- **MVVM
-- **CoreData
-- **WebKit
-- **TheMovieDB API
+- SwiftUI + Combine
+- MVVM
+- CoreData
+- WebKit
+- TheMovieDB API
 
 ## Enjoy Cinemalistic
 Sit back, relax, and immerse yourself in the world of cinema. Discover, save, and enjoy movies with Cinemalistic.
