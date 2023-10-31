@@ -1,6 +1,6 @@
 # Cinemalistic - Your Movie Companion
 
-Cinemalistic is a sleek and stylish movie companion app built for movie enthusiasts who crave detailed information about their favorite films or are on the lookout for new cinematic adventures. With this app, you can explore a vast collection of movies, view their details, and even save your must-watch movies for later.
+Cinemalistic is a cool movie app made for people who love movies. It's perfect for those who want to know a lot about their favorite films or discover new ones. With this app, you can check out a bunch of movies, learn all about them, and save the ones you really want to watch later.
 
 ![Cinemalistic Layout](https://github.com/medlyosha/Cinemalistic/raw/main/Cinemalistic/Screenshots/Layout.png)
 
@@ -12,7 +12,7 @@ Cinemalistic is a sleek and stylish movie companion app built for movie enthusia
 
 - **Trailers**: Watch official trailers of your favorite movies within the app. Get a taste of the film before watching it.
 
-- **Cast & Crew**: Explore the talented actors and filmmakers behind the scenes. View images, roles, and profiles of the cast and crew.
+- **Cast**: Explore the talented actors. View images, roles.
 
 - **Reviews**: Read movie reviews shared by other users to get a broader perspective before deciding to watch a film.
 
