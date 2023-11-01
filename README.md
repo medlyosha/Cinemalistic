@@ -4,8 +4,8 @@ Cinemalistic is a cool movie app made for people who love movies. It's perfect f
 
 ![Cinemalistic Layout](https://github.com/medlyosha/Cinemalistic/raw/main/Cinemalistic/Screenshots/Layout.png)
 
-<img src=["https://ссылка-на-ваш-гиф-изображение.gif"](https://github.com/medlyosha/Cinemalistic/blob/main/Cinemalistic/Screenshots/Cinemalistic.gif
-) width="375" height="812" style="max-width:100%;">
+<img src=https://github.com/medlyosha/Cinemalistic/blob/main/Cinemalistic/Screenshots/Cinemalistic.gif
+ width="375" height="812" style="max-width:100%;">
 
 ## Features
 
